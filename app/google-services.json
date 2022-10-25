@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "92872733742",
+    "project_id": "maid-app-54ccf",
+    "storage_bucket": "maid-app-54ccf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92872733742:android:bd106c31f6c1acb0e89bbf",
+        "android_client_info": {
+          "package_name": "com.rateme.maidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92872733742-50f8b0p30dhtuff2st63q8e9kvuqauor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx3_Lg8ZfKzcfs11GNKyDE9iiTEm09lJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92872733742-50f8b0p30dhtuff2st63q8e9kvuqauor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

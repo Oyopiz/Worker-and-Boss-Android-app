@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MAIDAPP/MaidApp/app/src/main/res/drawable-v24/dialog_bg.xml" value="0.283" />
+        <entry key="..\:/MAIDAPP/MaidApp/app/src/main/res/drawable/bg.xml" value="0.283" />
+        <entry key="..\:/MAIDAPP/MaidApp/app/src/main/res/drawable/bgcard.xml" value="0.283" />
+        <entry key="..\:/MAIDAPP/MaidApp/app/src/main/res/drawable/bggen.xml" value="0.283" />
+        <entry key="..\:/MAIDAPP/MaidApp/app/src/main/res/drawable/editbg.xml" value="0.283" />
+        <entry key="..\:/MAIDAPP/MaidApp/app/src/main/res/layout/activity_admin.xml" value="0.23550724637681159" />
+        <entry key="..\:/MAIDAPP/MaidApp/app/src/main/res/layout/activity_admin1.xml" value="0.3578125" />
+        <entry key="..\:/MAIDAPP/MaidApp/app/src/main/res/layout/activity_boss.xml" value="0.4819277108433735" />
+        <entry key="..\:/MAIDAPP/MaidApp/app/src/main/res/layout/activity_checkrole.xml" value="0.371875" />
+        <entry key="..\:/MAIDAPP/MaidApp/app/src/main/res/layout/activity_edit.xml" value="0.371875" />
+        <entry key="..\:/MAIDAPP/MaidApp/app/src/main/res/layout/activity_forgot.xml" value="0.371875" />
+        <entry key="..\:/MAIDAPP/MaidApp/app/src/main/res/layout/activity_home.xml" value="0.371875" />
+        <entry key="..\:/MAIDAPP/MaidApp/app/src/main/res/layout/activity_main.xml" value="0.371875" />
+        <entry key="..\:/MAIDAPP/MaidApp/app/src/main/res/layout/activity_payment.xml" value="0.33" />
+        <entry key="..\:/MAIDAPP/MaidApp/app/src/main/res/layout/activity_post.xml" value="0.23550724637681159" />
+        <entry key="..\:/MAIDAPP/MaidApp/app/src/main/res/layout/activity_register.xml" value="0.23550724637681159" />
+        <entry key="..\:/MAIDAPP/MaidApp/app/src/main/res/layout/activity_workers_location.xml" value="0.371875" />
+        <entry key="..\:/MAIDAPP/MaidApp/app/src/main/res/layout/bottom_sheet_dialog.xml" value="0.371875" />
+        <entry key="..\:/MAIDAPP/MaidApp/app/src/main/res/layout/dialog.xml" value="0.23550724637681159" />
+        <entry key="..\:/MAIDAPP/MaidApp/app/src/main/res/layout/dialog_bg.xml" value="0.371875" />
+        <entry key="..\:/MAIDAPP/MaidApp/app/src/main/res/layout/dialoguebro.xml" value="0.371875" />
+        <entry key="..\:/MAIDAPP/MaidApp/app/src/main/res/layout/fragment_profile.xml" value="0.371875" />
+        <entry key="..\:/MAIDAPP/MaidApp/app/src/main/res/layout/fragment_status.xml" value="0.371875" />
+        <entry key="..\:/MAIDAPP/MaidApp/app/src/main/res/layout/fragmentboss_home.xml" value="0.23550724637681159" />
+        <entry key="..\:/MAIDAPP/MaidApp/app/src/main/res/layout/fragmentboss_profile.xml" value="0.371875" />
+        <entry key="..\:/MAIDAPP/MaidApp/app/src/main/res/layout/fragmentboss_selections.xml" value="0.371875" />
+        <entry key="..\:/MAIDAPP/MaidApp/app/src/main/res/layout/maids.xml" value="0.33" />
+        <entry key="..\:/MAIDAPP/MaidApp/app/src/main/res/layout/maidselections.xml" value="0.371875" />
+        <entry key="..\:/MAIDAPP/MaidApp/app/src/main/res/layout/notification.xml" value="0.371875" />
+        <entry key="..\:/MAIDAPP/MaidApp/app/src/main/res/layout/payments.xml" value="0.371875" />
+        <entry key="..\:/MAIDAPP/MaidApp/app/src/main/res/layout/shortlist.xml" value="0.371875" />
+        <entry key="..\:/MAIDAPP/MaidApp/app/src/main/res/layout/users.xml" value="0.371875" />
+        <entry key="..\:/MAIDAPP/MaidApp/app/src/main/res/menu/navigation.xml" value="0.371875" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MaidApp/app/src/main/res/drawable/bg.xml" value="0.2495" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MaidApp/app/src/main/res/drawable/bgcard.xml" value="0.2495" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MaidApp/app/src/main/res/drawable/bggen.xml" value="0.2495" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MaidApp/app/src/main/res/drawable/bglayout.xml" value="0.2495" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MaidApp/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.2495" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MaidApp/app/src/main/res/layout/activity_boss.xml" value="0.371875" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MaidApp/app/src/main/res/layout/activity_checkrole.xml" value="0.371875" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MaidApp/app/src/main/res/layout/activity_edit.xml" value="0.371875" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MaidApp/app/src/main/res/layout/activity_forgot.xml" value="0.371875" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MaidApp/app/src/main/res/layout/activity_home.xml" value="0.371875" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MaidApp/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MaidApp/app/src/main/res/layout/activity_post.xml" value="0.371875" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MaidApp/app/src/main/res/layout/activity_register.xml" value="0.371875" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MaidApp/app/src/main/res/layout/bottom_sheet_dialog.xml" value="0.33" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MaidApp/app/src/main/res/layout/dialoguebro.xml" value="0.371875" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MaidApp/app/src/main/res/layout/fragment_profile.xml" value="0.20516304347826086" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MaidApp/app/src/main/res/layout/fragment_status.xml" value="0.33" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MaidApp/app/src/main/res/layout/fragmentboss_home.xml" value="0.371875" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MaidApp/app/src/main/res/layout/fragmentboss_profile.xml" value="0.371875" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MaidApp/app/src/main/res/layout/fragmentboss_selections.xml" value="0.371875" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MaidApp/app/src/main/res/layout/maids.xml" value="0.371875" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MaidApp/app/src/main/res/layout/maidselections.xml" value="0.371875" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MaidApp/app/src/main/res/layout/notification.xml" value="0.371875" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MaidApp/app/src/main/res/layout/post.xml" value="0.371875" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MaidApp/app/src/main/res/layout/shortlist.xml" value="0.371875" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MaidApp/app/src/main/res/menu/main_menu.xml" value="0.371875" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MaidApp/app/src/main/res/menu/navboss.xml" value="0.371875" />
+        <entry key="..\:/Users/KEVIN/AndroidStudioProjects/MaidApp/app/src/main/res/menu/navigation.xml" value="0.371875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
